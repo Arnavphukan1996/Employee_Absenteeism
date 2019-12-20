@@ -5,9 +5,9 @@ XYZ is a courier company. As we appreciate that human capital plays an important
 https://s3-ap-southeast-1.amazonaws.com/edwisor-india-bucket/projects/data/DataN0101/Absenteeism_at_work_Project.xls
 
 # Dataset Details:
-Dataset Characteristics: Timeseries Multivariant
-Number of Attributes: 21
-Missing Values : Yes
+* Dataset Characteristics: Timeseries Multivariant
+* Number of Attributes: 21
+* Missing Values : Yes
 
 # Attribute Information:
 1. Individual identification (ID)
